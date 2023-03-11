@@ -1,0 +1,5 @@
+جدول users
+ثبت نام
+INSERT INTO `users`(`id`, `full_name`, `email`, `password`) VALUES (null,'ali kashi','alikashieee@gmail.com','123456789')
+حذف کاربر
+DELETE FROM `users` WHERE id=1

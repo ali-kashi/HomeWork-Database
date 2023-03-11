@@ -1,0 +1,5 @@
+جدول contacts
+درج پیام جدید
+INSERT INTO contacts(id,full_name,email,subject,message)VALUES(null,'ali kashi','alikashieee@gmail.com','ثبت سفارش','سفارش محصول در سایت ثبت نمی شود .')
+حذف پیام
+DELETE FROM contacts WHERE id=1
