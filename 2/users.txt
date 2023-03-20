@@ -1,0 +1,3 @@
+جدول users
+حذف کاربر (soft delete)
+UPDATE users SET status="noactive" WHERE id=1
