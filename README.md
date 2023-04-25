@@ -1,5 +1,5 @@
 تمرینات درس آزمایشگاه پایگاه داده ها
 ```
-لینک طراحی schema :
+schema :
 https://dbdesigner.page.link/Fbe9G8VqjrqnQBTB6 
 ```
