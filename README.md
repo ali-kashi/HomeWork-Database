@@ -1,6 +1,7 @@
-```تمرینات درس آزمایشگاه پایگاه داده ها 
+```
+تمرینات درس آزمایشگاه پایگاه داده ها 
 استاد آقای نوید ایمانی 
-دانشگاه مهاجر اصفهان```
+دانشگاه مهاجر اصفهان
 ```
 schema1 : https://dbdesigner.page.link/Fbe9G8VqjrqnQBTB6
 schema2 : https://dbdesigner.page.link/eNNR5zJZKLhXVkEVA
